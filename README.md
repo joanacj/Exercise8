@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
 <head>
   <link rel="stylesheet" type="text/css" href="styles.css">
@@ -18,4 +17,4 @@
   font-size: 40px;
 }
 </style>
-</html>
+
